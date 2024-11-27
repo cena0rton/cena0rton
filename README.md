@@ -9,11 +9,6 @@
 ###
 
 
-
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/u9PUI2VfXKkAAAAd/vegeta-gifs.gif" />
-</div>
-
 <br clear="both">
 
 
